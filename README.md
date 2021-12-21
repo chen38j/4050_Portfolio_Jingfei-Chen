@@ -1,7 +1,7 @@
 # 4050_Profolio_Jingfei-Chen
 #### Here is Jingfei Chen's Portfolio for HUDK 4050
 
-## This Portfolio includes 3 sections:
+## This Portfolio includes 4 sections:
 ### Reflective Essay
 + [Reflective Essay](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/Reflective%20Essay.pdf)
 
