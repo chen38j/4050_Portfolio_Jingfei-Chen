@@ -1,5 +1,5 @@
-# 4050_Profolio_Jingfei-Chen
-#### Here is Jingfei Chen's Portfolio for HUDK 4050
+# HUDK 4050_Profolio_Jingfei Chen
+#### Here is Jingfei Chen's HUDK 4050 Portfolio (2021 Fall).
 
 ## This Portfolio includes 4 sections:
 ### Reflective Essay
