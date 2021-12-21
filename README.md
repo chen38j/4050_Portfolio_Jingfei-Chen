@@ -3,7 +3,7 @@
 
 ## This Portfolio includes 3 sections:
 ### Reflective Essay
-+ [Reflective Essay](link)
++ [Reflective Essay](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/Reflective%20Essay.pdf)
 
 ### Individual Coding Exercise
 + [ICE1](https://github.com/chen38j/4050_Profolio_Jingfei-Chen/blob/main/ICE1.ipynb)
