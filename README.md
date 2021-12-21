@@ -6,7 +6,7 @@
 + [Reflective Essay](link)
 
 ### Individual Coding Exercise
-+ [ICE1](link)
++ [ICE1](https://github.com/chen38j/4050_Profolio_Jingfei-Chen/blob/main/ICE1.ipynb)
 + [ICE2](link)
 + [ICE3](link)
 + [ICE4](link)
