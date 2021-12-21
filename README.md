@@ -12,7 +12,7 @@
 + [ICE4](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE4.ipynb)
 + [ICE5](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE5.ipynb)
 + [ICE6](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE6.ipynb)
-+ [ICE7](link)
++ [ICE7](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE6.ipynb)
 + [ICE8](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/ICE8.ipynb)
 
 ### Analysis Challenge Assignment
