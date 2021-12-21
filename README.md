@@ -22,4 +22,4 @@
 + [ACA4](link)
 
 ### Creative EDM Assignment 
-+ [Creative EDM Assignment](link)
++ [Creative EDM Assignment](https://github.com/chen38j/4050_Portfolio_Jingfei-Chen/blob/main/Creative%20EDM%20Assignment.pdf)
